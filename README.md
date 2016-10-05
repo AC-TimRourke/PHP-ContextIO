@@ -22,7 +22,7 @@ directory, then ```require_once '/class.contextio.php';``` in your code.
 You can install the library by adding it as a dependency to your composer.json.
 
 "require": {
-  "contextio/php-contextio": "dev-master"
+  "AC-TimRourke/PHP-ContextIO": "dev-master"
 }
 
 ## Examples
